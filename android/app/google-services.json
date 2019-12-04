@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532292192978",
+    "firebase_url": "https://biblioteca-online-c0644.firebaseio.com",
+    "project_id": "biblioteca-online-c0644",
+    "storage_bucket": "biblioteca-online-c0644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532292192978:android:8795391101160fba443b0b",
+        "android_client_info": {
+          "package_name": "com.example.biblioteca_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532292192978-tu8p41gqhjfq122j7ro62a4so5em36a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc0ONz1joygI_mhnmE6zIvi0WXiQODn3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532292192978-tu8p41gqhjfq122j7ro62a4so5em36a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
